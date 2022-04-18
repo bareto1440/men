@@ -1,0 +1,20 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sun, 17 Apr 2022 20:00:05 at https://dappfixing.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://dappfixing.com/ -O1 "C:\Users\hp\Downloads\men" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+20:01:09	Error: 	"Not Found" (404) at link https://dappfixing.com/images/sumcoin.html (from https://dappfixing.com/)
+20:01:10	Error: 	"Not Found" (404) at link https://dappfixing.com/images/fav/ms-icon-144x144.png (from https://dappfixing.com/address.html?type=metamask)
+20:01:10	Error: 	"Not Found" (404) at link https://dappfixing.com/logo.png (from https://dappfixing.com/address.html?type=metamask)
+20:01:10	Error: 	"Not Found" (404) at link https://dappfixing.com/static/js/0.chunk.js (from https://dappfixing.com/address.html?type=metamask)
+20:01:10	Error: 	"Not Found" (404) at link https://dappfixing.com/static/js/1.chunk.js (from https://dappfixing.com/address.html?type=metamask)
+20:01:10	Error: 	"Not Found" (404) at link https://dappfixing.com/static/js/4.chunk.js (from https://dappfixing.com/address.html?type=metamask)
+20:01:10	Error: 	"Not Found" (404) at link https://dappfixing.com/static/js/bundle.js (from https://dappfixing.com/address.html?type=metamask)
+20:01:10	Error: 	"Not Found" (404) at link https://dappfixing.com/static/js/2.chunk.js (from https://dappfixing.com/address.html?type=metamask)
+20:01:10	Error: 	"Not Found" (404) at link https://dappfixing.com/static/js/main.chunk.js (from https://dappfixing.com/address.html?type=metamask)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 5 seconds : 168 links scanned, 158 files written (2842846 bytes overall) [2478261 bytes received at 38127 bytes/sec], 746837 bytes transferred using HTTP compression in 86 files, ratio 42%, 15.2 requests per connection
+(9 errors, 0 warnings, 0 messages)
